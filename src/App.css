@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+
+}
+
+.btn {
+  height: 50px;
+  width: 200px; 
+background-color:  rgba(9, 0, 128, 0.836);
+font-size: large;
+font-weight: bold;
+color: white;
+border-radius: 10px;
+}
+
+.btn:hover {
+  height: 50px;
+  width: 300px; 
+background-color: white;
+
+font-size: large;
+font-weight: bold;
+color:   rgba(45, 0, 128, 0.829);
+border-radius: 20px;
+}
+
+
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+li {
+  font-size: larger;
+  color:rgb(85, 85, 85);
+  font-weight: bold;
+}
+  
